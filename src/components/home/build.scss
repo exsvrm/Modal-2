@@ -1,0 +1,31 @@
+#page {
+    color: white;
+    font-size: 20px;
+
+    .brand {
+        color: white;
+        margin-left: 672px;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+
+    .message {
+        margin-left: 672px;
+    }
+
+    .username {
+        color: #979797;
+        margin-left: 672px;
+    }
+
+    #right {
+        float: right !important;
+        margin-right: 672px;
+    }
+    
+    hr {
+        padding: 0;
+        margin: 0px 672px 0px 672px;
+        color: #979797;
+    }
+}
